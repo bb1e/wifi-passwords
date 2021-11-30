@@ -13,7 +13,7 @@ Only need to download the script.
 Command:
 
 ```sh
-python wifi_passwords.py
+python wifi_password.py
 ```
 
 ## Contributing
